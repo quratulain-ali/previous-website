@@ -161,7 +161,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #39CCCC;
+  color: #1C3561;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -180,7 +180,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #39CCCC;
+  background: #1C3561;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
